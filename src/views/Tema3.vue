@@ -16,7 +16,7 @@
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Bebederos
-    p.mb-5 En las líneas que siguen, se describe los bebederos de agua, con sus respectivos tipos, características, ventajas, desventajas y recomendaciones para su adecuado uso. 
+    p.mb-5 En las líneas que siguen, se describen los bebederos de agua, con sus respectivos tipos, características, ventajas, desventajas y recomendaciones para su adecuado uso. 
     .color___box_1
       .px-5
         .row.justify-content-center.mb-5
@@ -128,7 +128,7 @@
       li.mb-0
         span.fa-li
           i.fas.fa-check-circle
-        | #[b Tipo artesanales]: Depende del modelo #[b a utilizar].
+        | #[b Tipo artesanales]: depende del modelo #[b a utilizar].
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -419,7 +419,7 @@
     Separador
     #t_3_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.7 Manejo de camas o yacija 
-    p.mb-5 El manejo de la cama o yacija es clave para mantener la higiene, controlar la humedad y reducir gases nocivos, favoreciendo el bienestar de las aves y la productividad. Aquí se profundizará en conocer su objetivo y tipos de camas
+    p.mb-5 El manejo de la cama o yacija es clave para mantener la higiene, controlar la humedad y reducir gases nocivos, favoreciendo el bienestar de las aves y la productividad. Aquí se profundizará en conocer su objetivo y tipos de camas.
     .fondo___slider.mb-5
       .px-5
         .ajuste-slider_1(data-aos="zoom-in")
@@ -452,7 +452,7 @@
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img111.png', alt='' style="max-width: 500px").m-auto
-    p.mb-5 En el siguiente pódcast se analizarán las funciones de la cama en galpones avícolas y las características que las identifica. 
+    p.mb-5 En el siguiente pódcast se analizarán las funciones de la cama en galpones avícolas y las características que las identifican. 
     .row.align-items-center.m-0.mb-5
       .col-xl
         .row.align-items-center.justify-content-center.box___podcast(data-aos="zoom-in")
@@ -463,7 +463,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Funciones y características de las camas avícolas"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/Funciones_caracteristicas_camas_avicolas.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block

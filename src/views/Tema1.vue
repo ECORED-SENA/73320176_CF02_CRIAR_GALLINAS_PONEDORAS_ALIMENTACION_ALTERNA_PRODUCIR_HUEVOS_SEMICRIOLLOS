@@ -370,7 +370,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Nidos individuales: 
+                | #[b Nidos individuales: ]
               ul.fa-ul.estilo___ul_3.mb-0
                 li.mb-0
                   span.fa-li
@@ -388,11 +388,11 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Altura del suelo: 40 cm. y 60 cm. 
+                | #[b Altura del suelo]: 40 cm. y 60 cm. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Cantidad: 1 nidal por cada 4 o 5 gallinas.
+                | #[b Cantidad]: 1 nidal por cada 4 o 5 gallinas.
     p.mb-5 A continuación, se presentan las ventajas y desventajas del nido moderno:
     .color___box_1
       .px-5
@@ -697,7 +697,7 @@
                 span.fa-li
                   i.fas.fa-check-circle
                 | Contribuye al bienestar de las aves.
-            p.mb-0 Por estas razones el manejo adecuado de los nidales es considerado una práctica esencial dentro del manejo zootécnico de las explotaciones avícolas de postura.
+            p.mb-0 Por estas razones, el manejo adecuado de los nidales es considerado una práctica esencial dentro del manejo zootécnico de las explotaciones avícolas de postura.
           .col-lg-auto.order-2
             figure
               img(src="@/assets/curso/temas/img28.svg", alt="" style="max-width: 120px").m-auto
@@ -1304,7 +1304,7 @@
     p.mb-5 En relación con el diagrama del sistema integral de alimentación avícola, se invita a explorar el siguiente video, en el cual se explican sus componentes y beneficios.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UWGkCF35NU8" title="Diagrama del sistema completo de alimentación avícola" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. Diagrama del sistema completo de alimentación avícola.
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
