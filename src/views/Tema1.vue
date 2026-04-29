@@ -1480,11 +1480,6 @@
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img61.png', alt='' style="max-width: 500px").m-auto
-    p.mb-5 En el siguiente video se presentan de forma detallada cada una de las fuentes, con ejemplos que destacan su importancia.
-    figure(data-aos="zoom-in").mb-5
-      .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. Fuentes detalladas de alimentación alternativa.
     .box___style_7.mb-0(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
