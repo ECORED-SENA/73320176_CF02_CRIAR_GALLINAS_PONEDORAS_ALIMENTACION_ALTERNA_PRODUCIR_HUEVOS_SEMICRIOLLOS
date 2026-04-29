@@ -365,9 +365,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paula Marcela Vidal Quintero',
@@ -411,6 +412,12 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
           nombre: 'Maria Carolina Tamayo Lopez',
           cargo: 'Locución',
           centro:
@@ -418,6 +425,12 @@ export default {
         },
         {
           nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Fabio Armando Ortiz Reyes',
           cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
