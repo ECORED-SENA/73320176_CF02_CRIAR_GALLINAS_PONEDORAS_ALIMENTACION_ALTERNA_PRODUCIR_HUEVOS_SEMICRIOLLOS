@@ -237,15 +237,15 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Individuales: 30 cm. x 30 cm. x 35 cm.; entre 20 cm. y 25 cm.
+                | Individuales: 30 cm x 30 cm x 35 cm; entre 20 cm y 25 cm
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Colectivos: 100 cm. x 40 cm. o 50 cm. x 40 cm.
+                | Colectivos: 100 cm x 40 cm o 50 cm x 40 cm
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Altura del suelo: entre 40 cm. y 50 cm. para evitar humedad.
+                | Altura del suelo: entre 40 cm y 50 cm para evitar humedad.
     p.mb-5 A continuación, se presentan las ventajas y desventajas del nido artesanal:
     .color___box_1
       .px-5
@@ -328,7 +328,7 @@
               img(src="@/assets/curso/temas/img12.svg" style="max-width: 60px").m-auto
           .col
             h3 Nido moderno (semitecnificado)
-        p.mb-5 En este apartado se presentan los aspectos técnicos del nido moderno, como, su concepto, características, medidas recomendadas, ventajas y desventajas en la producción avícola.
+        p.mb-5 En este apartado se presentan los aspectos técnicos del nido moderno como, su concepto, características, medidas recomendadas, ventajas y desventajas en la producción avícola.
     .row.align-items-center.mb-5
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
@@ -375,20 +375,20 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | Ancho: entre 30 cm. y 35 cm. 
+                  | Ancho: entre 30 cm y 35 cm 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | Alto: entre 30 cm. y 35 cm.
+                  | Alto: entre 30 cm y 35 cm
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | Profundidad: 35 cm. y 40 cm. 
+                  | Profundidad: 35 cm y 40 cm
             ul.fa-ul.mb-3
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Altura del suelo]: 40 cm. y 60 cm. 
+                | #[b Altura del suelo]: 40 cm y 60 cm 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -961,7 +961,7 @@
           figure
             img(src='@/assets/curso/temas/img40.png', alt='').m-auto
         .col-xl
-          p.mb-0 El Manejo integral de alimentación de gallinas ponedoras busca garantizar una nutrición equilibrada en las gallinas ponedoras, reducir el desperdicio de alimento y optimizar la conversión alimenticia para mejorar la productividad y el bienestar de las aves.
+          p.mb-0 El manejo integral de alimentación de gallinas ponedoras busca garantizar una nutrición equilibrada en las gallinas ponedoras, reducir el desperdicio de alimento y optimizar la conversión alimenticia para mejorar la productividad y el bienestar de las aves.
     p.mb-5 En este contexto, se abordarán los aspectos generales, como la recepción, el almacenamiento, las recomendaciones, el uso de canecas plásticas, el suministro de alimento, la rutina y el manejo diario.
     .row.align-items-center.mb-5
       .col-xl-auto(data-aos="fade-right")

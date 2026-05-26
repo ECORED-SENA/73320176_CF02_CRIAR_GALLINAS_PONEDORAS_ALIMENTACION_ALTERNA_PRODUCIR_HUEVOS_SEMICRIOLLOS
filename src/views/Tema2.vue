@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Manejo de Instalaciones Avícolas 
+      h1 Manejo de instalaciones avícolas 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl.mb-4.mb-lg-0
         .box___style_1.fit___box_1.mb-3(data-aos="fade-right")

@@ -128,7 +128,7 @@
       li.mb-0
         span.fa-li
           i.fas.fa-check-circle
-        | #[b Tipo artesanales]: depende del modelo #[b a utilizar].
+        | #[b Tipo artesanales]: depende del modelo a utilizar.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -345,10 +345,10 @@
           .col-lg-auto.order-2
             figure
               img(src="@/assets/curso/temas/img103.svg", alt="" style="max-width: 120px").m-auto
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Equipos Utilizados en el Despique")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Equipos utilizados en el despique")
         .row.align-items-center
           .col-lg.order-1.mb-4.mb-lg-0
-            h4 Equipos Utilizados en el Despique
+            h4 Equipos utilizados en el despique
             p.mb-0 El despique se realiza con equipos especializados como despicadoras eléctricas, cuchillas calientes, sistemas infrarrojos y equipos automáticos. Estos permiten un procedimiento rápido, seguro y uniforme, garantizando precisión y bienestar en las aves.
           .col-lg-auto.order-2
             figure

@@ -81,7 +81,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Manejo de Instalaciones Avícolas ',
+        titulo: 'Manejo de instalaciones avícolas ',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -177,7 +177,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/73320176_CF2_DU.pdf',
+        download: 'downloads/73322084_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',
