@@ -1043,7 +1043,7 @@
             p.mb-3 El suministro de alimento debe seguir un programa que defina cantidad y tipo según la edad y etapa productiva de las aves. Se emplean alimentos iniciadores, de crecimiento y de postura. El suministro puede realizarse mediante comederos manuales o sistemas automáticos, de acuerdo con el nivel tecnológico de la granja.
           .row(titulo="¿Qué es rutina de alimentación?").ajuste-cajaAcordion
             p.mb-3 La rutina de alimentación es fundamental para mantener la producción de huevos y la salud de las aves. Las gallinas son animales de hábito, por lo que los horarios deben cumplirse con puntualidad.
-          .row(titulo="Frecuencia de alimentación:").ajuste-cajaAcordion
+          .row(titulo="Frecuencia de alimentación").ajuste-cajaAcordion
             h5 Sistemas mecanizados
             ul.fa-ul.mb-3
               li.mb-0
