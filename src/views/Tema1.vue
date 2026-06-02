@@ -297,10 +297,6 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Pueden albergar parásitos.
-                  li.mb-0
-                    span.fa-li
-                      i.fas.fa-check-circle
                     | Deterioro por humedad.
                   li.mb-0
                     span.fa-li
